@@ -18,3 +18,6 @@ Overture Studio is a compact lodging studio in Kamianets-Podilskyi, Ukraine, loc
 
 ## Notes
 Email, an official website beyond this domain, Instagram, working hours, room capacity, exact amenities, and overnight parking availability are explicitly marked on the page as not confirmed; call to verify these details.
+
+## Forms
+Connected to HotelOS (`kp-overture`): `stay-request` only (no other services on the page). Script and contract: `../shared/FORMS.md`.
